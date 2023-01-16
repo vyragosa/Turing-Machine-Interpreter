@@ -1,7 +1,6 @@
 @ECHO OFF
 
 SETLOCAL
-REM [customize those variables]
 SET buildfiles="..\code\%prjname%.pas"
 
 SET debug=-Ci -Co -Cr
