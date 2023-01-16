@@ -1,0 +1,2 @@
+q1:0->q0:0 q1:a->q2:aR q1:b->q2:bR
+q2:0->q0:0 q2:a->q1:aR q2:b->q1:aR
